@@ -1,0 +1,38 @@
+body{
+  background-color: #f4f4f4;
+  font: 12px Arial, Helvetica, sans-serif;
+  line-height: 1.6em;
+}
+
+header{
+  text-align: center;
+  font: Arial, Helvetica;
+  background-color: skyblue;
+  background-size: cover;
+}
+
+header h1{
+  padding-bottom: 0;
+  font-size: 32px;
+
+}
+
+.content{
+  margin: 10px;
+}
+}
+#first_section{
+  border: 3px green solid;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 5px;
+}
+#first_section h2{
+  color: red;
+  font-size: 22px;
+}
+#first_section p{
+  font-style: italic;
+  letter-spacing: 0.1em;
+
+}
